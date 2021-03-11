@@ -5,7 +5,7 @@
 <p> Smpt Mass Checker Tool 🔓  </p>
 
 
-<img src="https://i.ibb.co/99S94qg/1.png" data-canonical-src="https://i.imgur.com/dbwyzap.png" style="max-width:100%;">
+<img src="https://i.imgur.com/dbwyzap.png" data-canonical-src="https://i.imgur.com/dbwyzap.png" style="max-width:100%;">
 
 <h2>Mass Advanced Python Mass Smtp Checker  </h2>
 <h2>Usage</h2>
