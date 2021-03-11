@@ -32,11 +32,11 @@ https://www.facebook.com/007MrSpy
 # MassSmtpMailing
 
 # features are : 
--Multi smtp rotation
--Email tag-Spam word filter (using base64 Encryption)
--Date tag -Time tag 
--Auto Rotate Message-ID-Multi-Threads 
--Random subject rotation (random strings upper lowercase a-z/0-9)
--Html/Plain msg enabled 
--Delay - 2sec/msg (0-2) 
--Using Random Letters / not just 1
+<p><p>-Multi smtp rotation<p>
+<p>-Email tag-Spam word filter (using base64 Encryption)<p>
+<p>-Date tag -Time tag <p>
+<p>-Auto Rotate Message-ID-Multi-Threads <p>
+<p>-Random subject rotation (random strings upper lowercase a-z/0-9)<p>
+<p>-Html/Plain msg enabled <p>
+<p>-Delay - 2sec/msg (0-2) <p>
+<p>-Using Random Letters / not just 1<p>
